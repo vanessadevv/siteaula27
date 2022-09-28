@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+#tabela1 {
+   border: 1px solid rgb(199, 41, 41); 
+   width: 100%;
+
+}
+
+
+#menu {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#tabela2 {
+    width: 100%;
+}
+
+#tabela3 {
+    text-decoration: none;
+    background-color: rgb(255, 23, 23);
+    font-size: larger;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid rgb(199, 41, 41); 
+    width: 100%;
+}
+
+#fo{
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: brown;
+
+}
